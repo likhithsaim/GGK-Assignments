@@ -1,0 +1,10 @@
+c:\Users\likhith.murarisetty\vscode_ws\code\ThreeTierArchitecture\bin\Debug\netcoreapp2.0\ThreeTierArchitecture.deps.json
+c:\Users\likhith.murarisetty\vscode_ws\code\ThreeTierArchitecture\bin\Debug\netcoreapp2.0\ThreeTierArchitecture.runtimeconfig.json
+c:\Users\likhith.murarisetty\vscode_ws\code\ThreeTierArchitecture\bin\Debug\netcoreapp2.0\ThreeTierArchitecture.runtimeconfig.dev.json
+c:\Users\likhith.murarisetty\vscode_ws\code\ThreeTierArchitecture\bin\Debug\netcoreapp2.0\ThreeTierArchitecture.dll
+c:\Users\likhith.murarisetty\vscode_ws\code\ThreeTierArchitecture\bin\Debug\netcoreapp2.0\ThreeTierArchitecture.pdb
+c:\Users\likhith.murarisetty\vscode_ws\code\ThreeTierArchitecture\obj\Debug\netcoreapp2.0\ThreeTierArchitecture.csproj.CoreCompileInputs.cache
+c:\Users\likhith.murarisetty\vscode_ws\code\ThreeTierArchitecture\obj\Debug\netcoreapp2.0\ThreeTierArchitecture.AssemblyInfoInputs.cache
+c:\Users\likhith.murarisetty\vscode_ws\code\ThreeTierArchitecture\obj\Debug\netcoreapp2.0\ThreeTierArchitecture.AssemblyInfo.cs
+c:\Users\likhith.murarisetty\vscode_ws\code\ThreeTierArchitecture\obj\Debug\netcoreapp2.0\ThreeTierArchitecture.dll
+c:\Users\likhith.murarisetty\vscode_ws\code\ThreeTierArchitecture\obj\Debug\netcoreapp2.0\ThreeTierArchitecture.pdb

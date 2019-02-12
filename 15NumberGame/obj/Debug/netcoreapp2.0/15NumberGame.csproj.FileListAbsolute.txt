@@ -1,0 +1,10 @@
+c:\Users\likhith.murarisetty\vscode_ws\code\15NumberGame\bin\Debug\netcoreapp2.0\15NumberGame.deps.json
+c:\Users\likhith.murarisetty\vscode_ws\code\15NumberGame\bin\Debug\netcoreapp2.0\15NumberGame.runtimeconfig.json
+c:\Users\likhith.murarisetty\vscode_ws\code\15NumberGame\bin\Debug\netcoreapp2.0\15NumberGame.runtimeconfig.dev.json
+c:\Users\likhith.murarisetty\vscode_ws\code\15NumberGame\bin\Debug\netcoreapp2.0\15NumberGame.dll
+c:\Users\likhith.murarisetty\vscode_ws\code\15NumberGame\bin\Debug\netcoreapp2.0\15NumberGame.pdb
+c:\Users\likhith.murarisetty\vscode_ws\code\15NumberGame\obj\Debug\netcoreapp2.0\15NumberGame.csproj.CoreCompileInputs.cache
+c:\Users\likhith.murarisetty\vscode_ws\code\15NumberGame\obj\Debug\netcoreapp2.0\15NumberGame.AssemblyInfoInputs.cache
+c:\Users\likhith.murarisetty\vscode_ws\code\15NumberGame\obj\Debug\netcoreapp2.0\15NumberGame.AssemblyInfo.cs
+c:\Users\likhith.murarisetty\vscode_ws\code\15NumberGame\obj\Debug\netcoreapp2.0\15NumberGame.dll
+c:\Users\likhith.murarisetty\vscode_ws\code\15NumberGame\obj\Debug\netcoreapp2.0\15NumberGame.pdb
