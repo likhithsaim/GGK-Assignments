@@ -1,0 +1,24 @@
+{
+
+        "version": "0.2.0",
+        "configurations": [
+             {
+                 "name": ".NET Core Launch (console)",
+                 "type": "coreclr",
+                 "request": "launch",
+                 "preLaunchTask": "build",
+                 "program": "${workspaceFolder}/P_ObservableCollections//bin/Debug/netcoreapp2.0/P_ObservableCollections.dll",
+                 "args": [],
+                 "cwd": "${workspaceFolder}/P_ObservableCollections/",
+                 "console": "externalTerminal",
+                 "stopAtEntry": false,
+                 "internalConsoleOptions": "openOnSessionStart"
+             },
+             {
+                 "name": ".NET Core Attach",
+                 "type": "coreclr",
+                 "request": "attach",
+                 "processId": "${command:pickProcess}"
+             }
+         ]
+     }

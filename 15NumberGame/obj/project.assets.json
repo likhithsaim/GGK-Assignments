@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\likhith.murarisetty\\vscode_ws\\code\\15NumberGame\\15NumberGame.csproj",
+      "projectUniqueName": "c:\\Users\\likhith.murarisetty\\Desktop\\likhith\\15NumberGame\\15NumberGame.csproj",
       "projectName": "15NumberGame",
-      "projectPath": "C:\\Users\\likhith.murarisetty\\vscode_ws\\code\\15NumberGame\\15NumberGame.csproj",
+      "projectPath": "c:\\Users\\likhith.murarisetty\\Desktop\\likhith\\15NumberGame\\15NumberGame.csproj",
       "packagesPath": "C:\\Users\\likhith.murarisetty\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\likhith.murarisetty\\vscode_ws\\code\\15NumberGame\\obj\\",
+      "outputPath": "c:\\Users\\likhith.murarisetty\\Desktop\\likhith\\15NumberGame\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

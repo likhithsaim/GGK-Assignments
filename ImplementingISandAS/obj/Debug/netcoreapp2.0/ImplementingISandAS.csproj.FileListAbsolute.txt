@@ -1,0 +1,10 @@
+c:\Users\likhith.murarisetty\Desktop\likhith\ImplementingISandAS\bin\Debug\netcoreapp2.0\ImplementingISandAS.deps.json
+c:\Users\likhith.murarisetty\Desktop\likhith\ImplementingISandAS\bin\Debug\netcoreapp2.0\ImplementingISandAS.runtimeconfig.json
+c:\Users\likhith.murarisetty\Desktop\likhith\ImplementingISandAS\bin\Debug\netcoreapp2.0\ImplementingISandAS.runtimeconfig.dev.json
+c:\Users\likhith.murarisetty\Desktop\likhith\ImplementingISandAS\bin\Debug\netcoreapp2.0\ImplementingISandAS.dll
+c:\Users\likhith.murarisetty\Desktop\likhith\ImplementingISandAS\bin\Debug\netcoreapp2.0\ImplementingISandAS.pdb
+c:\Users\likhith.murarisetty\Desktop\likhith\ImplementingISandAS\obj\Debug\netcoreapp2.0\ImplementingISandAS.csproj.CoreCompileInputs.cache
+c:\Users\likhith.murarisetty\Desktop\likhith\ImplementingISandAS\obj\Debug\netcoreapp2.0\ImplementingISandAS.AssemblyInfoInputs.cache
+c:\Users\likhith.murarisetty\Desktop\likhith\ImplementingISandAS\obj\Debug\netcoreapp2.0\ImplementingISandAS.AssemblyInfo.cs
+c:\Users\likhith.murarisetty\Desktop\likhith\ImplementingISandAS\obj\Debug\netcoreapp2.0\ImplementingISandAS.dll
+c:\Users\likhith.murarisetty\Desktop\likhith\ImplementingISandAS\obj\Debug\netcoreapp2.0\ImplementingISandAS.pdb

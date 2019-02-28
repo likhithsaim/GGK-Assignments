@@ -6,7 +6,7 @@ namespace ThreeTierArchitecture
     {
         static void Main(string[] args)
         {
-            Presentation presentation = new Presentation();
+            Presentation presentation = new Presentation(); 
             presentation.HomePage();
             Console.Read();
         }

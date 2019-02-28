@@ -8,3 +8,13 @@ c:\Users\likhith.murarisetty\vscode_ws\code\practice\obj\Debug\netcoreapp2.0\pra
 c:\Users\likhith.murarisetty\vscode_ws\code\practice\obj\Debug\netcoreapp2.0\practice.AssemblyInfo.cs
 c:\Users\likhith.murarisetty\vscode_ws\code\practice\obj\Debug\netcoreapp2.0\practice.dll
 c:\Users\likhith.murarisetty\vscode_ws\code\practice\obj\Debug\netcoreapp2.0\practice.pdb
+c:\Users\likhith.murarisetty\Desktop\likhith\practice\bin\Debug\netcoreapp2.0\practice.deps.json
+c:\Users\likhith.murarisetty\Desktop\likhith\practice\bin\Debug\netcoreapp2.0\practice.runtimeconfig.json
+c:\Users\likhith.murarisetty\Desktop\likhith\practice\bin\Debug\netcoreapp2.0\practice.runtimeconfig.dev.json
+c:\Users\likhith.murarisetty\Desktop\likhith\practice\bin\Debug\netcoreapp2.0\practice.dll
+c:\Users\likhith.murarisetty\Desktop\likhith\practice\bin\Debug\netcoreapp2.0\practice.pdb
+c:\Users\likhith.murarisetty\Desktop\likhith\practice\obj\Debug\netcoreapp2.0\practice.csproj.CoreCompileInputs.cache
+c:\Users\likhith.murarisetty\Desktop\likhith\practice\obj\Debug\netcoreapp2.0\practice.AssemblyInfoInputs.cache
+c:\Users\likhith.murarisetty\Desktop\likhith\practice\obj\Debug\netcoreapp2.0\practice.AssemblyInfo.cs
+c:\Users\likhith.murarisetty\Desktop\likhith\practice\obj\Debug\netcoreapp2.0\practice.dll
+c:\Users\likhith.murarisetty\Desktop\likhith\practice\obj\Debug\netcoreapp2.0\practice.pdb

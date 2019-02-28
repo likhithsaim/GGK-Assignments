@@ -18,3 +18,13 @@ c:\Users\likhith.murarisetty\vscode_ws\code\AddingFloatUsingBinary\obj\Debug\net
 c:\Users\likhith.murarisetty\vscode_ws\code\AddingFloatUsingBinary\obj\Debug\netcoreapp2.0\secassgn.AssemblyInfo.cs
 c:\Users\likhith.murarisetty\vscode_ws\code\AddingFloatUsingBinary\obj\Debug\netcoreapp2.0\secassgn.dll
 c:\Users\likhith.murarisetty\vscode_ws\code\AddingFloatUsingBinary\obj\Debug\netcoreapp2.0\secassgn.pdb
+c:\Users\likhith.murarisetty\Desktop\likhith\AddingFloatUsingBinary\bin\Debug\netcoreapp2.0\secassgn.deps.json
+c:\Users\likhith.murarisetty\Desktop\likhith\AddingFloatUsingBinary\bin\Debug\netcoreapp2.0\secassgn.runtimeconfig.json
+c:\Users\likhith.murarisetty\Desktop\likhith\AddingFloatUsingBinary\bin\Debug\netcoreapp2.0\secassgn.runtimeconfig.dev.json
+c:\Users\likhith.murarisetty\Desktop\likhith\AddingFloatUsingBinary\bin\Debug\netcoreapp2.0\secassgn.dll
+c:\Users\likhith.murarisetty\Desktop\likhith\AddingFloatUsingBinary\bin\Debug\netcoreapp2.0\secassgn.pdb
+c:\Users\likhith.murarisetty\Desktop\likhith\AddingFloatUsingBinary\obj\Debug\netcoreapp2.0\secassgn.csproj.CoreCompileInputs.cache
+c:\Users\likhith.murarisetty\Desktop\likhith\AddingFloatUsingBinary\obj\Debug\netcoreapp2.0\secassgn.AssemblyInfoInputs.cache
+c:\Users\likhith.murarisetty\Desktop\likhith\AddingFloatUsingBinary\obj\Debug\netcoreapp2.0\secassgn.AssemblyInfo.cs
+c:\Users\likhith.murarisetty\Desktop\likhith\AddingFloatUsingBinary\obj\Debug\netcoreapp2.0\secassgn.dll
+c:\Users\likhith.murarisetty\Desktop\likhith\AddingFloatUsingBinary\obj\Debug\netcoreapp2.0\secassgn.pdb

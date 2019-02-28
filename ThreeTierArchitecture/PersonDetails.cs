@@ -9,4 +9,4 @@ class PersonDetails
         this.password = password;
         this.isStudent = isStudent;
     }
-}
+} 

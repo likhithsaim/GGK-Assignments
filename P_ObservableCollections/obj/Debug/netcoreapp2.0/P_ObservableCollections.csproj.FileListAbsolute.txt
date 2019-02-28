@@ -1,0 +1,10 @@
+c:\Users\likhith.murarisetty\Desktop\likhith\P_ObservableCollections\bin\Debug\netcoreapp2.0\P_ObservableCollections.deps.json
+c:\Users\likhith.murarisetty\Desktop\likhith\P_ObservableCollections\bin\Debug\netcoreapp2.0\P_ObservableCollections.runtimeconfig.json
+c:\Users\likhith.murarisetty\Desktop\likhith\P_ObservableCollections\bin\Debug\netcoreapp2.0\P_ObservableCollections.runtimeconfig.dev.json
+c:\Users\likhith.murarisetty\Desktop\likhith\P_ObservableCollections\bin\Debug\netcoreapp2.0\P_ObservableCollections.dll
+c:\Users\likhith.murarisetty\Desktop\likhith\P_ObservableCollections\bin\Debug\netcoreapp2.0\P_ObservableCollections.pdb
+c:\Users\likhith.murarisetty\Desktop\likhith\P_ObservableCollections\obj\Debug\netcoreapp2.0\P_ObservableCollections.csproj.CoreCompileInputs.cache
+c:\Users\likhith.murarisetty\Desktop\likhith\P_ObservableCollections\obj\Debug\netcoreapp2.0\P_ObservableCollections.AssemblyInfoInputs.cache
+c:\Users\likhith.murarisetty\Desktop\likhith\P_ObservableCollections\obj\Debug\netcoreapp2.0\P_ObservableCollections.AssemblyInfo.cs
+c:\Users\likhith.murarisetty\Desktop\likhith\P_ObservableCollections\obj\Debug\netcoreapp2.0\P_ObservableCollections.dll
+c:\Users\likhith.murarisetty\Desktop\likhith\P_ObservableCollections\obj\Debug\netcoreapp2.0\P_ObservableCollections.pdb

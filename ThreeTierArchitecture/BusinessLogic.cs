@@ -7,10 +7,10 @@ class BusinessLogic
     //  Checks if the mail id is valid or not
     public bool isIdValid(string id)
     {
-        if (Regex.IsMatch(id, @".{1,}(@gmail.com)"))
+        if (Regex.IsMatch(id, @".+(@gmail.com)"))
         {
             return true;
-        }
+        } 
         return false;
     }
     //  Checks if the password meets the requirements

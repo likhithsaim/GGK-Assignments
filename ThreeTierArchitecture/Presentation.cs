@@ -3,7 +3,7 @@ using System.Collections.Generic;
 class Presentation
 {
     BusinessLogic m_businessLogic = new BusinessLogic();
-    //  Displays Home Page
+    //  Displays Home Page 
     public void HomePage()
     {
         while (true)
@@ -25,7 +25,7 @@ class Presentation
                     Environment.Exit(0);
                     break;
                 default:
-                    Console.ForegroundColor=ConsoleColor.Red;
+                    Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("Invalid choice.");
                     Console.ResetColor();
                     Console.ReadLine();
@@ -49,7 +49,7 @@ class Presentation
         }
         else
         {
-            Console.ForegroundColor=ConsoleColor.Red;
+            Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine(message);
             Console.ResetColor();
             Console.ReadLine();
@@ -66,7 +66,7 @@ class Presentation
         Console.Write("Enter Last Name  : ");
         fullName += " " + Console.ReadLine();
         string MailId, password;
-        Console.ForegroundColor=ConsoleColor.Green;
+        Console.ForegroundColor = ConsoleColor.Green;
         Console.WriteLine("Mail-ID must contain '@gmail.com'.");
         Console.ResetColor();
         do
@@ -75,13 +75,13 @@ class Presentation
             MailId = Console.ReadLine();
             if (m_businessLogic.IsIdExist(MailId))
             {
-                Console.ForegroundColor=ConsoleColor.Red;
+                Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("ID not available.\nEnter another id.\n");
                 Console.ResetColor();
                 MailId = "a";
             }
         } while (!m_businessLogic.isIdValid(MailId));
-        Console.ForegroundColor=ConsoleColor.Green;
+        Console.ForegroundColor = ConsoleColor.Green;
         Console.WriteLine("password must contain a Lowercase letter, an Uppercase letter, a number, one of these special symbols (!@#$%^&*())");
         Console.ResetColor();
         do
@@ -122,7 +122,7 @@ class Presentation
                     HomePage();
                     break;
                 default:
-                    Console.ForegroundColor=ConsoleColor.Red;
+                    Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("Invalid choice.");
                     Console.ResetColor();
                     Console.ReadLine();

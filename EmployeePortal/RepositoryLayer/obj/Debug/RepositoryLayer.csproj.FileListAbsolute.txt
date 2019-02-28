@@ -1,0 +1,17 @@
+C:\Users\sumith.vyasa\source\repos\EmployeePortal\RepositoryLayer\bin\Debug\RepositoryLayer.dll
+C:\Users\sumith.vyasa\source\repos\EmployeePortal\RepositoryLayer\bin\Debug\RepositoryLayer.pdb
+C:\Users\sumith.vyasa\source\repos\EmployeePortal\RepositoryLayer\bin\Debug\DomainLayer.dll
+C:\Users\sumith.vyasa\source\repos\EmployeePortal\RepositoryLayer\bin\Debug\DomainLayer.pdb
+C:\Users\sumith.vyasa\source\repos\EmployeePortal\RepositoryLayer\obj\Debug\RepositoryLayer.csprojAssemblyReference.cache
+C:\Users\sumith.vyasa\source\repos\EmployeePortal\RepositoryLayer\obj\Debug\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\sumith.vyasa\source\repos\EmployeePortal\RepositoryLayer\obj\Debug\RepositoryLayer.csproj.CopyComplete
+C:\Users\sumith.vyasa\source\repos\EmployeePortal\RepositoryLayer\obj\Debug\RepositoryLayer.dll
+C:\Users\sumith.vyasa\source\repos\EmployeePortal\RepositoryLayer\obj\Debug\RepositoryLayer.pdb
+c:\Users\likhith.murarisetty\Desktop\likhith\EmployeePortal\RepositoryLayer\bin\Debug\RepositoryLayer.dll
+c:\Users\likhith.murarisetty\Desktop\likhith\EmployeePortal\RepositoryLayer\bin\Debug\RepositoryLayer.pdb
+c:\Users\likhith.murarisetty\Desktop\likhith\EmployeePortal\RepositoryLayer\bin\Debug\DomainLayer.dll
+c:\Users\likhith.murarisetty\Desktop\likhith\EmployeePortal\RepositoryLayer\bin\Debug\DomainLayer.pdb
+c:\Users\likhith.murarisetty\Desktop\likhith\EmployeePortal\RepositoryLayer\obj\Debug\RepositoryLayer.csproj.CoreCompileInputs.cache
+c:\Users\likhith.murarisetty\Desktop\likhith\EmployeePortal\RepositoryLayer\obj\Debug\RepositoryLayer.dll
+c:\Users\likhith.murarisetty\Desktop\likhith\EmployeePortal\RepositoryLayer\obj\Debug\RepositoryLayer.pdb
+C:\Users\likhith.murarisetty\Desktop\likhith\EmployeePortal\RepositoryLayer\obj\Debug\RepositoryLayer.csprojResolveAssemblyReference.cache

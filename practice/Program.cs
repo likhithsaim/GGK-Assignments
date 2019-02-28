@@ -1,35 +1,45 @@
 ﻿using System;
-using System.Text.RegularExpressions;
-namespace JustForFun
+using System.Collections.Generic;
+using System.Collections.ObjectModel;
+using System.Collections.Specialized;
+
+public class Example
 {
-    class Program
+    public static void Main()
     {
-        static void Main()
+        RunObservableCollectionCode();
+    }
+    private static void RunObservableCollectionCode()
+    {
+        ObservableCollection<string> names = new ObservableCollection<string>();
+        names.CollectionChanged += names_CollectionChanged;
+        names.Add("Adam");
+        names.Add("Eve");
+        names.Remove("Adam");
+        names.Add("John");
+        names.Add("Peter");
+        names.Clear();
+        Console.Read();
+    }
+
+    static void names_CollectionChanged(object sender, NotifyCollectionChangedEventArgs e)
+    {
+        if (e.NewItems != null)
         {
-            string s = "hello world";
-            Console.WriteLine(s);
-            string v = "aeiou";
-            int length = s.Length;
-            if (!v.Contains(s[length - 1].ToString()))
+            Console.WriteLine("Items added: ");
+            foreach (var item in e.NewItems)
             {
-                char ch = s[length - 1];
-                ch--;
-                s = s.Substring(0, length - 1) + ch + "a";
+                Console.WriteLine(item);
             }
-            string[] a = Regex.Split(s, "[a,e,i,o,u]");
-            s = "";
-            for (int i = 0; i < a.Length; i++)
+        }
+
+        if (e.OldItems != null)
+        {
+            Console.WriteLine("Items removed: ");
+            foreach (var item in e.OldItems)
             {
-                length = a[i].Length;
-                if (length > 0)
-                {
-                    char ch = a[i][length - 1];
-                    ch++;
-                    s = s + a[i].Substring(0, a[i].Length - 1) + ch + " ";
-                }
+                Console.WriteLine(item);
             }
-            Console.WriteLine(s);
-            Console.Read();
         }
     }
 }

@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\likhith.murarisetty\\vscode_ws\\code\\practice\\practice.csproj",
+      "projectUniqueName": "C:\\Users\\likhith.murarisetty\\Desktop\\likhith\\practice\\practice.csproj",
       "projectName": "practice",
-      "projectPath": "C:\\Users\\likhith.murarisetty\\vscode_ws\\code\\practice\\practice.csproj",
+      "projectPath": "C:\\Users\\likhith.murarisetty\\Desktop\\likhith\\practice\\practice.csproj",
       "packagesPath": "C:\\Users\\likhith.murarisetty\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\likhith.murarisetty\\vscode_ws\\code\\practice\\obj\\",
+      "outputPath": "C:\\Users\\likhith.murarisetty\\Desktop\\likhith\\practice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

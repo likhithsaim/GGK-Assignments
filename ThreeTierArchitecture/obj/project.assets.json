@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\likhith.murarisetty\\vscode_ws\\code\\ThreeTierArchitecture\\ThreeTierArchitecture.csproj",
+      "projectUniqueName": "C:\\Users\\likhith.murarisetty\\Desktop\\likhith\\ThreeTierArchitecture\\ThreeTierArchitecture.csproj",
       "projectName": "ThreeTierArchitecture",
-      "projectPath": "C:\\Users\\likhith.murarisetty\\vscode_ws\\code\\ThreeTierArchitecture\\ThreeTierArchitecture.csproj",
+      "projectPath": "C:\\Users\\likhith.murarisetty\\Desktop\\likhith\\ThreeTierArchitecture\\ThreeTierArchitecture.csproj",
       "packagesPath": "C:\\Users\\likhith.murarisetty\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\likhith.murarisetty\\vscode_ws\\code\\ThreeTierArchitecture\\obj\\",
+      "outputPath": "C:\\Users\\likhith.murarisetty\\Desktop\\likhith\\ThreeTierArchitecture\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

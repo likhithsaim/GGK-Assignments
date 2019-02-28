@@ -8,3 +8,13 @@ c:\Users\likhith.murarisetty\vscode_ws\code\15NumberGame\obj\Debug\netcoreapp2.0
 c:\Users\likhith.murarisetty\vscode_ws\code\15NumberGame\obj\Debug\netcoreapp2.0\15NumberGame.AssemblyInfo.cs
 c:\Users\likhith.murarisetty\vscode_ws\code\15NumberGame\obj\Debug\netcoreapp2.0\15NumberGame.dll
 c:\Users\likhith.murarisetty\vscode_ws\code\15NumberGame\obj\Debug\netcoreapp2.0\15NumberGame.pdb
+C:\Users\likhith.murarisetty\Desktop\likhith\15NumberGame\bin\Debug\netcoreapp2.0\15NumberGame.deps.json
+C:\Users\likhith.murarisetty\Desktop\likhith\15NumberGame\bin\Debug\netcoreapp2.0\15NumberGame.runtimeconfig.json
+C:\Users\likhith.murarisetty\Desktop\likhith\15NumberGame\bin\Debug\netcoreapp2.0\15NumberGame.runtimeconfig.dev.json
+C:\Users\likhith.murarisetty\Desktop\likhith\15NumberGame\bin\Debug\netcoreapp2.0\15NumberGame.dll
+C:\Users\likhith.murarisetty\Desktop\likhith\15NumberGame\bin\Debug\netcoreapp2.0\15NumberGame.pdb
+C:\Users\likhith.murarisetty\Desktop\likhith\15NumberGame\obj\Debug\netcoreapp2.0\15NumberGame.csproj.CoreCompileInputs.cache
+C:\Users\likhith.murarisetty\Desktop\likhith\15NumberGame\obj\Debug\netcoreapp2.0\15NumberGame.AssemblyInfoInputs.cache
+C:\Users\likhith.murarisetty\Desktop\likhith\15NumberGame\obj\Debug\netcoreapp2.0\15NumberGame.AssemblyInfo.cs
+C:\Users\likhith.murarisetty\Desktop\likhith\15NumberGame\obj\Debug\netcoreapp2.0\15NumberGame.dll
+C:\Users\likhith.murarisetty\Desktop\likhith\15NumberGame\obj\Debug\netcoreapp2.0\15NumberGame.pdb
